@@ -1,0 +1,8 @@
+﻿  Source3.cpp
+E:\CYUT\chengshisheji\zuoye\zuoye\Source3.cpp(1,1): warning C4828: 檔案包含起始於位移 0x6b 的字元，在目前的來源字元集 (字碼頁 65001) 中不是合法的字元。
+E:\CYUT\chengshisheji\zuoye\zuoye\Source3.cpp(1,1): warning C4828: 檔案包含起始於位移 0x6d 的字元，在目前的來源字元集 (字碼頁 65001) 中不是合法的字元。
+E:\CYUT\chengshisheji\zuoye\zuoye\Source3.cpp(1,1): warning C4828: 檔案包含起始於位移 0x6e 的字元，在目前的來源字元集 (字碼頁 65001) 中不是合法的字元。
+E:\CYUT\chengshisheji\zuoye\zuoye\Source3.cpp(1,1): warning C4828: 檔案包含起始於位移 0x72 的字元，在目前的來源字元集 (字碼頁 65001) 中不是合法的字元。
+E:\CYUT\chengshisheji\zuoye\zuoye\Source3.cpp(1,1): warning C4828: 檔案包含起始於位移 0x73 的字元，在目前的來源字元集 (字碼頁 65001) 中不是合法的字元。
+E:\CYUT\chengshisheji\zuoye\zuoye\Source3.cpp(1,1): warning C4828: 檔案包含起始於位移 0x74 的字元，在目前的來源字元集 (字碼頁 65001) 中不是合法的字元。
+  zuoye.vcxproj -> E:\CYUT\chengshisheji\zuoye\x64\Debug\zuoye.exe
