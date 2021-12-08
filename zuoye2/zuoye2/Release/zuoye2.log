@@ -1,0 +1,40 @@
+﻿F:\Visual Studio 2019\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(1006,5): warning MSB8027: 兩個或多個名稱為 'Source7.cpp' 的檔案會產生輸出到相同位置。這可能導致錯誤的組建結果。涉及的檔案是 ..\..\zuoye\zuoye\Source7.cpp, Source7.cpp。
+  Source7.cpp
+E:\CYUT\chengshisheji\zuoye\zuoye\Source7.cpp(14,24): warning C4018: '<': signed/unsigned 不相符
+  Source.cpp
+E:\CYUT\chengshisheji\zuoye2\zuoye2\Source.cpp(12,16): warning C4474: 'printf': 傳遞給格式字串的引數太多
+E:\CYUT\chengshisheji\zuoye2\zuoye2\Source.cpp(12,16): message : 預留位置及其參數需要 0 個 variadic 引數，但卻提供了 1 個
+E:\CYUT\chengshisheji\zuoye2\zuoye2\Source.cpp(13,23): warning C4018: '<=': signed/unsigned 不相符
+  Source1.cpp
+  Source2.cpp
+E:\CYUT\chengshisheji\zuoye2\zuoye2\Source2.cpp(30,23): warning C4018: '<': signed/unsigned 不相符
+  Source3.cpp
+  Source4.cpp
+E:\CYUT\chengshisheji\zuoye2\zuoye2\Source4.cpp(13,16): warning C4305: '正在初始化': 從 'double' 轉換為 'float'，是由較大的類型轉換為較小的類型，可能導致資料遺失
+  Source5.cpp
+  Source6.cpp
+E:\CYUT\chengshisheji\zuoye2\zuoye2\Source6.cpp(32,23): warning C4018: '<': signed/unsigned 不相符
+  Source7.cpp
+  Source8.cpp
+  可自訂大小陣列乘法.cpp
+  色碼電阻.cpp
+  zuoye2.cpp
+E:\CYUT\chengshisheji\zuoye2\zuoye2\zuoye2.cpp(23,21): warning C4018: '<': signed/unsigned 不相符
+E:\CYUT\chengshisheji\zuoye2\zuoye2\zuoye2.cpp(24,25): warning C4018: '<': signed/unsigned 不相符
+Source.obj : error LNK2005: "int a" (?a@@3HA) 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source1.obj : error LNK2005: "int sum" (?sum@@3HA) 已在 Source7.obj 中定義過了
+Source1.obj : error LNK2005: "int a" (?a@@3HA) 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source3.obj : error LNK2005: "int * a" (?a@@3PAHA) 已在 Source2.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Release\Source7.obj : warning LNK4042: 指定物件超過一次，已忽略多餘的部分
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+Source7.obj : error LNK2005: _main 已在 Source7.obj 中定義過了
+E:\CYUT\chengshisheji\zuoye2\Release\zuoye2.exe : fatal error LNK1169: 找到有一或多個已定義的符號

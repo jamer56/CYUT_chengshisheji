@@ -1,0 +1,9 @@
+﻿  可自訂大小陣列乘法.cpp
+E:\CYUT\chengshisheji\zuoye2\zuoye2\可自訂大小陣列乘法.cpp(5,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 巨集重複定義
+E:\CYUT\chengshisheji\zuoye2\zuoye2\可自訂大小陣列乘法.cpp : message : 請參閱 '_CRT_SECURE_NO_WARNINGS' 之前的定義
+  正在產生程式碼
+  10 of 10 functions (100.0%) were compiled.
+    3 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成程式碼產生
+  run.vcxproj -> E:\CYUT\chengshisheji\zuoye2\Release\run.exe

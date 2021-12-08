@@ -21,9 +21,6 @@
     <ClCompile Include="zuoye2.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\zuoye\zuoye\Source7.cpp">
-      <Filter>預設</Filter>
-    </ClCompile>
     <ClCompile Include="Source.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
@@ -33,10 +30,43 @@
     <ClCompile Include="Source2.cpp">
       <Filter>來源檔案</Filter>
     </ClCompile>
+    <ClCompile Include="Source3.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source4.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="色碼電阻.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source5.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source6.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source7.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\zuoye\zuoye\Source7.cpp">
+      <Filter>資源檔</Filter>
+    </ClCompile>
+    <ClCompile Include="Source8.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source9.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source10.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Source11.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\zuoye\zuoye\_.txt">
-      <Filter>預設</Filter>
-    </Text>
+    <ClInclude Include="test.h">
+      <Filter>標頭檔</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -14,12 +14,15 @@ FILE *d;
 int main(void) {
 	d = fopen("d.txt","a");
 	fprintf(d, "aaaa");
-	while (getchar() == EOF) {
+	freopen("ghs.txt", "w+", stdin);
+	while (getchar() != EOF) {
 		scanf("%d", &a[c]);
 		printf("panduang %d\n", stdin != NULL);
 		printf("%s", b);
 		c++;
+
 	}
+	freopen("ghs.txt", "w+", stdin);
 
 	printf("done");
 
@@ -28,5 +31,6 @@ int main(void) {
 	{
 		printf("%d", a[i]);
 	}
+	
 	return 0;
 }
